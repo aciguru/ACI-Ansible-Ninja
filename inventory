@@ -1,0 +1,7 @@
+[apic:vars]
+username=admin
+password=ins3965!
+ansible_python_interpreter="/usr/bin/env python"
+
+[apic]
+173.36.219.190
